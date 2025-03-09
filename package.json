@@ -1,0 +1,18 @@
+{
+  "name": "@xeophin/snippets",
+  "version": "1.0.0",
+  "description": "A list of useful code snippets",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xeophin/snippets.git"
+  },
+  "keywords": [
+    "markdown",
+    "content",
+    "code",
+    "snippets"
+  ],
+  "author": "Kaspar Manz <code@xeophin.net>",
+  "license": "ISC",
+  "homepage": "https://xeophin.net/snippets"
+}
