@@ -1,1 +1,6 @@
-{}
+{
+  "translucency": true,
+  "interfaceFontFamily": "SF Pro",
+  "textFontFamily": "SF Pro",
+  "monospaceFontFamily": "Iosevka,SF Mono"
+}
