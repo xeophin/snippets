@@ -6,8 +6,6 @@ requirements:
   - svelte@>=5
 language: svelte
 tags: webdev
-sources:
-  - 
 ---
 
 ```svelte
