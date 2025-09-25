@@ -1,0 +1,14 @@
+views:
+  - type: table
+    name: Table
+    order:
+      - file.name
+      - language
+      - tags
+      - updated
+      - created
+    sort:
+      - property: language
+        direction: ASC
+  - type: cards
+    name: View
