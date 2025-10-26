@@ -1,11 +1,11 @@
 ---
-created: 2025-03-09T17:57
-updated: 2025-03-09T17:57
+created: 2025-10-10
+updated: 2025-10-26T15:40
 title: Dividing by Units in CSS
 requirements:
   - 
 language: css
-tags: 
+tags:
 sources:
   - https://typetura.com/blog/unit-division-with-css-and-fallbacks/
 ---

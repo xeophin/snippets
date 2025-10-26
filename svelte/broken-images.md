@@ -1,6 +1,6 @@
 ---
 created: 2025-03-09T17:57
-updated: 2025-03-09T18:24
+updated: 2025-10-26T15:38
 title: Some nice title
 requirements:
   - svelte@>=5
