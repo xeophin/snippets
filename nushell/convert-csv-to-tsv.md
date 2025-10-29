@@ -4,7 +4,8 @@ updated: 2025-10-29T11:10
 title: Convert a CSV to a TSV file
 requirements:
   - nushell
-language: nushell
+language:
+  - nushell
 tags: datawrangling
 ---
 

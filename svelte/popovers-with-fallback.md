@@ -1,10 +1,13 @@
 ---
 created: 2025-10-26T15:38
-updated: 2025-10-26T20:43
+updated: 2025-10-29T12:10
 title: Popovers with Fallback
 requirements:
   - 
-language: javascript
+language:
+  - javascript
+  - svelte
+  - typescript
 tags:
 sources:
   - 

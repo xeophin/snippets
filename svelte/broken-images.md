@@ -1,10 +1,12 @@
 ---
 created: 2025-03-09T17:57
-updated: 2025-10-26T15:38
+updated: 2025-10-29T12:10
 title: Some nice title
 requirements:
   - svelte@>=5
-language: svelte
+language:
+  - svelte
+  - javascript
 tags: webdev
 ---
 

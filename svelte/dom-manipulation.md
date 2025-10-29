@@ -1,8 +1,11 @@
 ---
 created: 2025-05-23T17:53
-updated: 2025-05-23T17:53
+updated: 2025-10-29T12:10
 title: DOM Manipulation
-language: javascript
+language:
+  - javascript
+  - svelte
+  - typescript
 requirements:
   - svelte@>=5.29
 ---

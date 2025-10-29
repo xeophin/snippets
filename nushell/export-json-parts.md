@@ -4,7 +4,8 @@ updated: 2025-10-29T11:10
 title: Export
 requirements:
   - nushell
-language: nushell
+language:
+  - nushell
 tags: datawrangling
 ---
 

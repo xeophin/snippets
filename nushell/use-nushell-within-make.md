@@ -5,7 +5,8 @@ title: Use Nushell in a Makefile
 requirements:
   - nushell
   - make
-language: nushell
+language:
+  - shell
 tags: datawrangling
 ---
 

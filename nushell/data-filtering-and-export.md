@@ -4,7 +4,8 @@ updated: 2025-10-29T11:10
 title: Extracting Information from a CSV using nushell
 requirements:
   - nushell
-language: nushell
+language:
+  - nushell
 tags: datawrangling
 ---
 

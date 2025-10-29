@@ -1,10 +1,12 @@
 ---
 created: 2025-05-16T14:15
-updated: 2025-05-16T14:15
+updated: 2025-10-29T12:10
 title: Svelte Scroll Progress Bar
 requirements:
   - svelte@>=5
-language: svelte
+language:
+  - svelte
+  - typescript
 tags: webdev
 ---
 
