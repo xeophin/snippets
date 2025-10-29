@@ -1,6 +1,6 @@
 ---
 created: 2025-10-29T11:10
-updated: 2025-10-29T11:10
+updated: 2025-10-29T12:10
 title: Convert a CSV to a TSV file
 requirements:
   - nushell
@@ -10,7 +10,11 @@ tags: datawrangling
 ---
 
 ```nushell
-open table.csv --raw | from csv --separator ';'| rename --column { old_column_name: NewColumn, } | to tsv | save table.tsv -f
+open table.csv --raw 
+	| from csv --separator ';'
+	| rename --column { old_column_name: NewColumn, } 
+	| to tsv 
+	| save table.tsv -f
 ```
 
 ## What it does
