@@ -10,5 +10,7 @@ views:
     sort:
       - property: language
         direction: ASC
+    columnSize:
+      note.updated: 165
   - type: cards
     name: View

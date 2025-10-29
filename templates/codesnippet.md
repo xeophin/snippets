@@ -1,6 +1,6 @@
 ---
-created: 2025-03-09T17:57
-updated: 2025-10-26T20:43
+created: {{date}}T{{time}}
+updated: {{date}}T{{time}}
 title: Some nice title
 requirements:
   - 
