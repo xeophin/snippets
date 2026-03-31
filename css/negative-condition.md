@@ -1,6 +1,6 @@
 ---
 created: 2025-10-26T15:38
-updated: 2025-11-01T10:01
+updated: 2026-03-31T19:44
 title: Negative Condition
 language: css
 tags: webdev
