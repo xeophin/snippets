@@ -1,5 +1,6 @@
 {
-  "livePreview": false,
+  "livePreview": true,
   "propertiesInDocument": "visible",
-  "useMarkdownLinks": true
+  "useMarkdownLinks": true,
+  "strictLineBreaks": true
 }

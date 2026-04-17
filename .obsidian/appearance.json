@@ -2,5 +2,6 @@
   "translucency": true,
   "interfaceFontFamily": "SF Pro",
   "textFontFamily": "SF Pro",
-  "monospaceFontFamily": "Iosevka,SF Mono"
+  "monospaceFontFamily": "Iosevka,SF Mono",
+  "cssTheme": "Minimal"
 }
