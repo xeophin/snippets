@@ -1,6 +1,6 @@
 ---
 created: 2025-10-29T11:29
-updated: 2025-10-29T12:10
+updated: 2026-03-31T10:03
 title: Templated Properties
 requirements:
   - typescript
