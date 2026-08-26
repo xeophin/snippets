@@ -1,6 +1,6 @@
 ---
 created: 2026-07-17T08:25
-updated: 2026-07-17T08:25
+updated: 2026-08-26T09:08
 title: Lazy Initialisation
 requirements:
   - typescript
