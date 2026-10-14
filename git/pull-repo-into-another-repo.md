@@ -1,6 +1,6 @@
 ---
 created: 2026-04-17T14:03
-updated: 2026-09-25T18:09
+updated: 2026-10-14T16:10
 title: Pull an External Repo into an Existing Repo
 requirements:
   - git
